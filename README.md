@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamIssa22
+- 👋 Hi, I’m SamIssa
 - 👀 I’m interested in Back-end development 
 - 🌱 I’m currently learning different kinds of data base and frameworks like Django and Django rest.
 - 💞️ I’m looking to collaborate on Full-stack projects 
